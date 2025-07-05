@@ -28,7 +28,7 @@
 ## 🖼️ Screenshots
 
 ### 🔐 Login Screen
-![Login](./Screens/Login.png)
+![Login](./Screens/login.png)
 > User authentication with validation
 
 ---
