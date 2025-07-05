@@ -21,7 +21,6 @@
 - **ASP.NET (WinForms)**
 - **SQL Server**
 - **ADO.NET / Stored Procedures**
-- **Crystal Reports** (if used – optional to add)
 - **Local deployment**
 
 ---
@@ -29,7 +28,7 @@
 ## 🖼️ Screenshots
 
 ### 🔐 Login Screen
-![Login](./Screens/Login.jpg)
+![Login](./Screens/Login.png)
 > User authentication with validation
 
 ---
